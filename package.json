@@ -1,0 +1,9 @@
+{
+  "name": "browserify-adventure-solution",
+  "description": "Solutions to http://nodeschool.io/#browserify-adventure",
+  "author": "BJR Matos",
+  "license": "MIT",
+  "dependencies": {
+    "uniq": "^1.0.1"
+  }
+}
